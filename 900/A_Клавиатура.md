@@ -1,0 +1,8 @@
+I solved this problem in two ways:
+
+1. `A_Клавиатура.cpp`
+2. `A_Клавиатура2.cpp`
+
+The first solution uses a very long `map`. It works, but it is not a good idea because the code becomes too long and easy to make mistakes in. At first, I thought that it was possible to move from one keyboard to another, thus I considered this method.
+
+The second solution uses the keyboard layout as a string. For each character, I find its index in the keyboard string. Then, depending on the direction (`R` or `L`), I add either the character at `index - 1` or `index + 1` to the result.
