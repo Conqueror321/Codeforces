@@ -1,10 +1,12 @@
-# DSA Coding Journey
+# DSA & Competitive Programming Journey
 
-This repository tracks my DSA and competitive programming practice.
+This repository is a public record of my DSA and competitive programming journey.
 
-The main goal is to build a strong problem-solving foundation and keep a clear record of my progress. This will be useful in the future when I apply to FAANG-level companies :)
+My goal is to show that becoming strong at competitive programming does not require being an olympiad student, a natural talent, or someone who started very early. What matters most is discipline, consistency, persistence, and structured learning.
 
-## Goal
+I use this repo to track my progress, analyze my mistakes, and build a strong problem-solving foundation step by step.
+
+## Main Goal
 
 My aim is to solve **100 problems for every Codeforces rating level**.
 
@@ -13,7 +15,7 @@ My aim is to solve **100 problems for every Codeforces rating level**.
 | Rating | Status |
 | --- | --- |
 | 800 | Ready |
-| 900 | In Process | 29 |
+| 900 | In Process | 29 solved |
 
 ## What I Track
 
@@ -21,7 +23,12 @@ My aim is to solve **100 problems for every Codeforces rating level**.
 - Different approaches to the same problem
 - Mistakes and lessons learned
 - Short explanations in Markdown files
+- Useful patterns and ideas for future review
 
-## Purpose
+## Why This Repository Exists
 
-This repo is not only for storing solutions. It is also a place where I can review my thinking process, analyze mistakes, and improve step by step.
+This repo is not only a place for storing solutions.
+
+It is a learning journal where I can see how my thinking improves over time. Every solved problem, wrong attempt, and explanation helps me become better.
+
+The long-term goal is to become confident in algorithms, data structures, and problem solving for competitive programming and technical interviews.
