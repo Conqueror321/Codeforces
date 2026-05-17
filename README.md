@@ -30,5 +30,3 @@ My aim is to solve **100 problems for every Codeforces rating level**.
 This repo is not only a place for storing solutions.
 
 It is a learning journal where I can see how my thinking improves over time. Every solved problem, wrong attempt, and explanation helps me become better.
-
-The long-term goal is to become confident in algorithms, data structures, and problem solving for competitive programming and technical interviews.
