@@ -13,7 +13,7 @@ My aim is to solve **100 problems for every Codeforces rating level**.
 | Rating | Status |
 | --- | --- |
 | 800 | Ready |
-| 900 | In Process |
+| 900 | In Process | 29 |
 
 ## What I Track
 
